@@ -1,8 +1,8 @@
-version: 0.1.4
+version: 0.1.6
 files:
-  - url: https://github.com/zylos-ai/openmax-computer-use-releases/releases/download/v0.1.4/OpenMaxComputerUse-0.1.4-mac-arm64.zip
-    sha512: KapNmIKobWPlyyAdArCipzhnCnxtxccDlElE0rRds4Aencyph7wmyJVJYzvGMHG0O6oi//j566Y5LDt7VQK4pw==
-    size: 122326398
-path: https://github.com/zylos-ai/openmax-computer-use-releases/releases/download/v0.1.4/OpenMaxComputerUse-0.1.4-mac-arm64.zip
-sha512: KapNmIKobWPlyyAdArCipzhnCnxtxccDlElE0rRds4Aencyph7wmyJVJYzvGMHG0O6oi//j566Y5LDt7VQK4pw==
-releaseDate: 2026-11-12T12:15:39.465818+00:00
+  - url: https://github.com/zylos-ai/openmax-computer-use-releases/releases/download/v0.1.6/OpenMaxComputerUse-0.1.6-mac-arm64.zip
+    sha512: Bs1bupXAF4LUNv5v0RDeDPvcdToEQhVhNEs/CnOjL81y95UwZlTwcncuSl1TDrv1xLbiC1uzRdy4V8VUSsZT/Q==
+    size: 122650210
+path: https://github.com/zylos-ai/openmax-computer-use-releases/releases/download/v0.1.6/OpenMaxComputerUse-0.1.6-mac-arm64.zip
+sha512: Bs1bupXAF4LUNv5v0RDeDPvcdToEQhVhNEs/CnOjL81y95UwZlTwcncuSl1TDrv1xLbiC1uzRdy4V8VUSsZT/Q==
+releaseDate: 2026-11-13T03:29:19.435Z
